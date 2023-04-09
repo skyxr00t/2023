@@ -89,11 +89,7 @@
             <tbody>
                 <tr>
                     <td><strong>Slot Dana</strong></td>
-                    <td><a class="button" href="https://utkarsheducation.co.in" target="_blank" rel="nofollow noopener">Daftar</a></td>
-                </tr>
-				<tr>
-                    <td><strong>Slot Dana 5000</strong></td>
-                    <td><a class="button" href="https://utkarsheducation.co.in" target="_blank" rel="nofollow noopener">Daftar</a></td>
+                    <td><a class="button" href="#XY14" target="_blank" rel="nofollow noopener">Daftar</a></td>
                 </tr>
             </tbody>        
             <tbody>
